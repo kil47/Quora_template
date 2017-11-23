@@ -1,0 +1,24 @@
+.format
+{ color:rgb(110,200,130);
+    background-color:lightseagreen;
+}
+.header
+{ color:grey; ;
+text-align:center;
+margin-bottom: 40px;
+    background-color:linen;
+    font-size:300%;
+
+    }
+.pan
+{
+    color:green;
+    background-color:rgb(122,97,10);
+
+}
+body
+{ background-color:linen;
+}
+#gap {
+    margin-top: 50px;
+}
